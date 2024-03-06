@@ -1,0 +1,51 @@
+Interroduction 
+
+What is Data Base ?
+
+A place where data is stored in a tabular format (ustructured as well as Unstructured ). It is stored in SSD or HDD and these sd and hdd are in the server room.
+
+
+
+
+
+
+What is Cloud ?
+
+3 types of cloud Service : 
+1. Software as a Service ---- GWS(Google Wokspace Apps) , Microsoft 365
+
+2. Platform as a Service ---- 
+3. Infrastructure as a Service 
+
+
+
+What is data Management ?
+
+
+
+What is RDBMS ? 
+
+
+
+What is differnce between SQL and mySQL?
+
+
+
+
+What is NTFS?
+
+
+
+what is the filesysyem in Linux?
+
+
+
+What is HDFS?
+To handle Large amount of data.
+
+What is Aparche Kafka ?
+It is a streaming data loke iot data. It is totally real data being generated at high speed and 
+
+W
+
+
